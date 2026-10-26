@@ -1,0 +1,8 @@
+version: 0.1.4-dev.1
+files:
+  - url: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.1.4-dev.1/EN-Launcher-Dev-Setup-0.1.4-dev.1.exe
+    sha512: F1/DaqgKPOaJbK+HP4k01W1/vyh8sC3S9+ME+BF8fwlqH1X3hqV/sbmTx/tYGKwHbaTIFVu56alpl/GbXujgpA==
+    size: 131155482
+path: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.1.4-dev.1/EN-Launcher-Dev-Setup-0.1.4-dev.1.exe
+sha512: F1/DaqgKPOaJbK+HP4k01W1/vyh8sC3S9+ME+BF8fwlqH1X3hqV/sbmTx/tYGKwHbaTIFVu56alpl/GbXujgpA==
+releaseDate: '2026-10-26T01:40:25.488Z'
