@@ -1,8 +1,8 @@
-version: 0.2.6
+version: 0.2.7
 files:
-  - url: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.6/EN-Launcher-Setup-0.2.6.exe
-    sha512: dObIeV4KwFBOly1vtcx3Mj8f6MrHUM2D5EPNTVBfKTIrF/0uAj89QPVi24erZhUq6J+ugOssiqeCc9rlpRbtEQ==
-    size: 121908369
-path: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.6/EN-Launcher-Setup-0.2.6.exe
-sha512: dObIeV4KwFBOly1vtcx3Mj8f6MrHUM2D5EPNTVBfKTIrF/0uAj89QPVi24erZhUq6J+ugOssiqeCc9rlpRbtEQ==
-releaseDate: '2026-10-26T17:41:33.870Z'
+  - url: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.7/EN-Launcher-Setup-0.2.7.exe
+    sha512: hkzagQx0Np6k7esvrN9Wlqo/e6b8qcQ1wxXdEJDLAkRQgf1fbv7RoKaowQF+D8SvY/SIMzn3X+BARLtd6T9uRQ==
+    size: 121908767
+path: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.7/EN-Launcher-Setup-0.2.7.exe
+sha512: hkzagQx0Np6k7esvrN9Wlqo/e6b8qcQ1wxXdEJDLAkRQgf1fbv7RoKaowQF+D8SvY/SIMzn3X+BARLtd6T9uRQ==
+releaseDate: '2026-10-26T17:58:58.289Z'
