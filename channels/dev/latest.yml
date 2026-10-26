@@ -1,8 +1,8 @@
-version: 0.2.7-dev.1
+version: 0.2.8-dev.1
 files:
-  - url: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.7-dev.1/EN-Launcher-Dev-Setup-0.2.7-dev.1.exe
-    sha512: BRbNcL4sSzTeybMPFEeZUYXbdKFwJsuh9FxKsQWPQNuaZs4f1fXP75cdLNbVfK6ee+MIKUcFstG/LjNC5BRSIA==
-    size: 121908754
-path: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.7-dev.1/EN-Launcher-Dev-Setup-0.2.7-dev.1.exe
-sha512: BRbNcL4sSzTeybMPFEeZUYXbdKFwJsuh9FxKsQWPQNuaZs4f1fXP75cdLNbVfK6ee+MIKUcFstG/LjNC5BRSIA==
-releaseDate: '2026-10-26T17:58:04.540Z'
+  - url: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.8-dev.1/EN-Launcher-Dev-Setup-0.2.8-dev.1.exe
+    sha512: Oww62chQoswaQSPTZyvCRCBBHRmDA3BJ31+tus7kuJW73bvXCGF5rnHSbQ+HblgB4Pp+reSPxwSPRUHDyWLRjw==
+    size: 121962240
+path: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.8-dev.1/EN-Launcher-Dev-Setup-0.2.8-dev.1.exe
+sha512: Oww62chQoswaQSPTZyvCRCBBHRmDA3BJ31+tus7kuJW73bvXCGF5rnHSbQ+HblgB4Pp+reSPxwSPRUHDyWLRjw==
+releaseDate: '2026-10-26T18:29:24.764Z'
