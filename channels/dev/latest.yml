@@ -1,8 +1,8 @@
-version: 0.2.17-dev.1
+version: 0.2.18-dev.1
 files:
-  - url: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.17-dev.1/EN-Launcher-Dev-Setup-0.2.17-dev.1.exe
-    sha512: joHwAL/F//HGZC2mMOANfEs5ngjzWwUsn2BaC8xMj4RrZJQ2n2Q6nIqF9eqgF8W63EYmmXLJkfWNgT2pbcA+Cg==
-    size: 121975348
-path: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.17-dev.1/EN-Launcher-Dev-Setup-0.2.17-dev.1.exe
-sha512: joHwAL/F//HGZC2mMOANfEs5ngjzWwUsn2BaC8xMj4RrZJQ2n2Q6nIqF9eqgF8W63EYmmXLJkfWNgT2pbcA+Cg==
-releaseDate: '2026-10-28T14:20:55.846Z'
+  - url: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.18-dev.1/EN-Launcher-Dev-Setup-0.2.18-dev.1.exe
+    sha512: IQB/jn4AfXogE2p4uFfVbKU3qCtw5IY8t+6cVitQ6Dg2E1+XAg6yVBFTq3AYHhamYXB5hyMIpVYP4/WcMU0JYw==
+    size: 121975929
+path: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.18-dev.1/EN-Launcher-Dev-Setup-0.2.18-dev.1.exe
+sha512: IQB/jn4AfXogE2p4uFfVbKU3qCtw5IY8t+6cVitQ6Dg2E1+XAg6yVBFTq3AYHhamYXB5hyMIpVYP4/WcMU0JYw==
+releaseDate: '2026-10-28T17:26:06.866Z'
