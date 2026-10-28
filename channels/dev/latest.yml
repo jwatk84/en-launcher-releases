@@ -1,8 +1,8 @@
-version: 0.2.16-dev.1
+version: 0.2.17-dev.1
 files:
-  - url: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.16-dev.1/EN-Launcher-Dev-Setup-0.2.16-dev.1.exe
-    sha512: mvK9W3pExbsspuvJpg2qt4uTC0b5+d6yjTc75ytvfvf7bgdqh3NYEgR/hSR53HIfnq36EXyKsyYUD31Th4F5kQ==
-    size: 121973954
-path: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.16-dev.1/EN-Launcher-Dev-Setup-0.2.16-dev.1.exe
-sha512: mvK9W3pExbsspuvJpg2qt4uTC0b5+d6yjTc75ytvfvf7bgdqh3NYEgR/hSR53HIfnq36EXyKsyYUD31Th4F5kQ==
-releaseDate: '2026-10-28T13:42:20.064Z'
+  - url: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.17-dev.1/EN-Launcher-Dev-Setup-0.2.17-dev.1.exe
+    sha512: joHwAL/F//HGZC2mMOANfEs5ngjzWwUsn2BaC8xMj4RrZJQ2n2Q6nIqF9eqgF8W63EYmmXLJkfWNgT2pbcA+Cg==
+    size: 121975348
+path: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.17-dev.1/EN-Launcher-Dev-Setup-0.2.17-dev.1.exe
+sha512: joHwAL/F//HGZC2mMOANfEs5ngjzWwUsn2BaC8xMj4RrZJQ2n2Q6nIqF9eqgF8W63EYmmXLJkfWNgT2pbcA+Cg==
+releaseDate: '2026-10-28T14:20:55.846Z'
