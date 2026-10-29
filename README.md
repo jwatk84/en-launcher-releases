@@ -1,16 +1,11 @@
 # EN Launcher downloads
 
-Official Windows installers and automatic updates for Eroded Networks.
+Official public Windows installer for Eroded Networks.
 
-[Download the latest release](https://github.com/jwatk84/en-launcher-releases/releases/latest)
+[Download EN Launcher](https://github.com/jwatk84/en-launcher-releases/releases/download/online-installer/EN-Launcher-Install.exe)
 
-Run the setup EXE to install EN Launcher for your Windows user. Desktop and Start menu shortcuts are included. The launcher checks for updates automatically; progress and restart controls are available in Settings.
+This installer downloads and installs the current public version. Existing public installations receive automatic updates. Development builds are private and are not distributed here.
 
-These are development testing builds. Windows code signing is not yet configured. Game integrations and mod feeds vary by game.
+Windows code signing is not yet configured.
 
-- [Eroded Networks](https://erodednetworks.com)
-- [Launcher Privacy Policy](https://erodednetworks.com/privacy#privacy-launcher)
-- [Terms of Service](https://erodednetworks.com/tos#terms-launcher)
-- [Discord support](https://discord.com/invite/HWgB6G3KFd)
-
-This repository contains published downloads and release information. Launcher source is maintained separately.
+[Eroded Networks](https://erodednetworks.com) · [Privacy](https://erodednetworks.com/privacy#privacy-launcher) · [Terms](https://erodednetworks.com/tos#terms-launcher)
