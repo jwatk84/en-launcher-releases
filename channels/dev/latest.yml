@@ -1,8 +1,8 @@
-version: 0.2.28-dev.1
+version: 0.2.29-dev.1
 files:
-  - url: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.28-dev.1/EN-Launcher-Dev-Setup-0.2.28-dev.1.exe
-    sha512: bNcQdeVZMjI50RQAnHJ+j+6kfpnmNCNvICGqSHRE/9IoxG6l5QKiSZ/90Xxq0FbhnQYJNZaOEOCJ6xd5+tWFsQ==
-    size: 121984146
-path: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.28-dev.1/EN-Launcher-Dev-Setup-0.2.28-dev.1.exe
-sha512: bNcQdeVZMjI50RQAnHJ+j+6kfpnmNCNvICGqSHRE/9IoxG6l5QKiSZ/90Xxq0FbhnQYJNZaOEOCJ6xd5+tWFsQ==
-releaseDate: '2026-10-29T21:15:36.131Z'
+  - url: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.29-dev.1/EN-Launcher-Dev-Setup-0.2.29-dev.1.exe
+    sha512: 8jbK31ItIWfEYodSoHdUyp3w/ZGzJVaKaNJUyKXb7wK/Kv+jO02/OdwivC+v1zuul3ycCWDwQB+HQEvlWqFY/g==
+    size: 121985109
+path: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.29-dev.1/EN-Launcher-Dev-Setup-0.2.29-dev.1.exe
+sha512: 8jbK31ItIWfEYodSoHdUyp3w/ZGzJVaKaNJUyKXb7wK/Kv+jO02/OdwivC+v1zuul3ycCWDwQB+HQEvlWqFY/g==
+releaseDate: '2026-10-29T21:35:48.093Z'
