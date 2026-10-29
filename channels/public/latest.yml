@@ -1,8 +1,8 @@
-version: 0.2.23
+version: 0.2.24
 files:
-  - url: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.23/EN-Launcher-Setup-0.2.23.exe
-    sha512: hxu1kdPfQCAjQDcJEt8mrUd2Nrnroxast24gDyLZLaODF8yXh3xiVxPYm156GNo0oIZfO/E+5puiR0lnXgGLwA==
-    size: 121981525
-path: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.23/EN-Launcher-Setup-0.2.23.exe
-sha512: hxu1kdPfQCAjQDcJEt8mrUd2Nrnroxast24gDyLZLaODF8yXh3xiVxPYm156GNo0oIZfO/E+5puiR0lnXgGLwA==
-releaseDate: '2026-10-29T08:49:52.641Z'
+  - url: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.24/EN-Launcher-Setup-0.2.24.exe
+    sha512: QeypXlBGK6lAWf+jtA0bAE/rqUc5k/uBIaCBcBVYY79JZFtlicEOZJiFmF9KrxiJoAwbQSlHatKonDk/svFf2A==
+    size: 121982028
+path: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.24/EN-Launcher-Setup-0.2.24.exe
+sha512: QeypXlBGK6lAWf+jtA0bAE/rqUc5k/uBIaCBcBVYY79JZFtlicEOZJiFmF9KrxiJoAwbQSlHatKonDk/svFf2A==
+releaseDate: '2026-10-29T10:14:40.966Z'
