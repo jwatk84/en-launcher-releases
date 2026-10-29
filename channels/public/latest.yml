@@ -1,8 +1,8 @@
-version: 0.2.28
+version: 0.2.29
 files:
-  - url: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.28/EN-Launcher-Setup-0.2.28.exe
-    sha512: U44+3zQJGuzGjRDIBQS+G+RxSSjxSi3csWfKvPvxAC4xVBeygvYOBCkaHJ3W+d7CKQQqX3oqSLABRHql2OkUEA==
-    size: 121983927
-path: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.28/EN-Launcher-Setup-0.2.28.exe
-sha512: U44+3zQJGuzGjRDIBQS+G+RxSSjxSi3csWfKvPvxAC4xVBeygvYOBCkaHJ3W+d7CKQQqX3oqSLABRHql2OkUEA==
-releaseDate: '2026-10-29T21:16:44.279Z'
+  - url: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.29/EN-Launcher-Setup-0.2.29.exe
+    sha512: Zo1gn+x8MQ3uzxVWLIUebtsTP2lAtLBORxV19pKtk5nzD2OWgW9FVQjX8mTET3guQ2MHyFpcQKhTElFecXhE6Q==
+    size: 121984764
+path: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.29/EN-Launcher-Setup-0.2.29.exe
+sha512: Zo1gn+x8MQ3uzxVWLIUebtsTP2lAtLBORxV19pKtk5nzD2OWgW9FVQjX8mTET3guQ2MHyFpcQKhTElFecXhE6Q==
+releaseDate: '2026-10-29T21:36:49.943Z'
