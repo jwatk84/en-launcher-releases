@@ -1,8 +1,8 @@
-version: 0.2.40-dev.1
+version: 0.2.41-dev.1
 files:
-  - url: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.40-dev.1/EN-Launcher-Dev-Setup-0.2.40-dev.1.exe
-    sha512: of16e28xuhnCz4o9Z0onHOEGOq7Dqe2exseXwy2flTJlXuldeaUFdswOKkdkFxC6I9lg5xr4/01RiITX5wefjw==
-    size: 121991376
-path: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.40-dev.1/EN-Launcher-Dev-Setup-0.2.40-dev.1.exe
-sha512: of16e28xuhnCz4o9Z0onHOEGOq7Dqe2exseXwy2flTJlXuldeaUFdswOKkdkFxC6I9lg5xr4/01RiITX5wefjw==
-releaseDate: '2026-11-02T17:26:04.986Z'
+  - url: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.41-dev.1/EN-Launcher-Dev-Setup-0.2.41-dev.1.exe
+    sha512: XL2evxOiabH5OMBiwxi9frMpYGtOqTy5XMoZbGMGW8b6svSm8EvfLfHmrSDsOVZDVcWJF6zBv18y7c58juNJDg==
+    size: 121991449
+path: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.41-dev.1/EN-Launcher-Dev-Setup-0.2.41-dev.1.exe
+sha512: XL2evxOiabH5OMBiwxi9frMpYGtOqTy5XMoZbGMGW8b6svSm8EvfLfHmrSDsOVZDVcWJF6zBv18y7c58juNJDg==
+releaseDate: '2026-11-04T00:00:44.433Z'
