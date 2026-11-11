@@ -1,12 +1,12 @@
 files:
-- blockMapSize: 132347
-  sha512: MJ3WUxg5NcSB+0/rOz88288dqpmbBv1YJxFS0wzCuOCsJ8hHw5FA6GEBwnq5yX9Fu7sytfrDwmC6lcbppbVbNg==
-  size: 126735591
-  url: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.54/EN-Launcher-0.2.54-linux-x86_64.AppImage
-- sha512: y7K6fbyoyr77AuoLSj4d4PAZSogMBEOwgV9UgdABoIBhR5C/wrWIugbAzosW3KdEdom54iuM779/+YxfifV5fQ==
-  size: 101510520
-  url: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.54/EN-Launcher-0.2.54-linux-amd64.deb
-path: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.54/EN-Launcher-0.2.54-linux-x86_64.AppImage
-releaseDate: '2026-11-11T22:38:29.961Z'
-sha512: MJ3WUxg5NcSB+0/rOz88288dqpmbBv1YJxFS0wzCuOCsJ8hHw5FA6GEBwnq5yX9Fu7sytfrDwmC6lcbppbVbNg==
-version: 0.2.54
+- blockMapSize: 132319
+  sha512: QgZqQT+mBUNTlDQ0wWRN79RdestRgW13W82ocRbrKg9XRXYq7M8qnnu7jpOwDD+T3rqxfe+BuxICchggCq76yg==
+  size: 126735563
+  url: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.55/EN-Launcher-0.2.55-linux-x86_64.AppImage
+- sha512: cAcsFK17quSFo0b6FWqFn/LY+EU/gOribfi17F4EBYh4pwxK0/vqTU1Uz/3igjC+lXn3HbhiVRV6bE1+MZr+Bw==
+  size: 101511004
+  url: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.55/EN-Launcher-0.2.55-linux-amd64.deb
+path: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.55/EN-Launcher-0.2.55-linux-x86_64.AppImage
+releaseDate: '2026-11-11T22:55:51.036Z'
+sha512: QgZqQT+mBUNTlDQ0wWRN79RdestRgW13W82ocRbrKg9XRXYq7M8qnnu7jpOwDD+T3rqxfe+BuxICchggCq76yg==
+version: 0.2.55
