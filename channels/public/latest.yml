@@ -1,8 +1,8 @@
 files:
-- sha512: ErFYsg+fBhzEMeDbBKq03iaMK5E1Y0Cbi2S2RhpnJgdpRm8u3t/fL0OTC/yGx8a5aFjOOG39VdjkT+Q5hB6SEg==
-  size: 121152597
-  url: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.57/EN-Launcher-Setup-0.2.57.exe
-path: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.57/EN-Launcher-Setup-0.2.57.exe
-releaseDate: '2026-11-12T00:24:36.148Z'
-sha512: ErFYsg+fBhzEMeDbBKq03iaMK5E1Y0Cbi2S2RhpnJgdpRm8u3t/fL0OTC/yGx8a5aFjOOG39VdjkT+Q5hB6SEg==
-version: 0.2.57
+- sha512: ONRzrH+zGCNcztPE9BhCvz0th8d/rqk3jJxy2EJAQMId5Hk1XQZ4+zCBWYGTmqmvxWBlgDDDWrwXr/KfftqGsA==
+  size: 121153300
+  url: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.58/EN-Launcher-Setup-0.2.58.exe
+path: https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.58/EN-Launcher-Setup-0.2.58.exe
+releaseDate: '2026-11-12T00:44:32.580Z'
+sha512: ONRzrH+zGCNcztPE9BhCvz0th8d/rqk3jJxy2EJAQMId5Hk1XQZ4+zCBWYGTmqmvxWBlgDDDWrwXr/KfftqGsA==
+version: 0.2.58
