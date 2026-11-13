@@ -1,12 +1,12 @@
-version: 0.2.63
+version: 0.2.64
 files:
   - url: >-
-      https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.63/EN-Launcher-Setup-0.2.63.exe
+      https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.64/EN-Launcher-Setup-0.2.64.exe
     sha512: >-
-      qBSrOnCQESyKxHAX7EDeZWOWoguE91b5LPdisGVKQyT1+vDobZyFWbCdg8JvHxzJe+Fv+zrPeUew1yaNEr1Urg==
-    size: 122076728
+      zNerMdII0lYgw4vz/YnlujJlnxzjkL5//MLRANlLIrvqywX60BmtjOTJrliZxCx8jaj3aWSMYhYjR5AvWNTvmQ==
+    size: 122079111
 path: >-
-  https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.63/EN-Launcher-Setup-0.2.63.exe
+  https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.64/EN-Launcher-Setup-0.2.64.exe
 sha512: >-
-  qBSrOnCQESyKxHAX7EDeZWOWoguE91b5LPdisGVKQyT1+vDobZyFWbCdg8JvHxzJe+Fv+zrPeUew1yaNEr1Urg==
-releaseDate: '2026-11-12T21:17:13.484Z'
+  zNerMdII0lYgw4vz/YnlujJlnxzjkL5//MLRANlLIrvqywX60BmtjOTJrliZxCx8jaj3aWSMYhYjR5AvWNTvmQ==
+releaseDate: '2026-11-13T11:36:47.095Z'
