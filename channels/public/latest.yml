@@ -1,12 +1,12 @@
-version: 0.2.70
+version: 0.2.71
 files:
   - url: >-
-      https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.70/EN-Launcher-Setup-0.2.70.exe
+      https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.71/EN-Launcher-Setup-0.2.71.exe
     sha512: >-
-      BDM/YwszCutdo9dAGO/oBd+qkubaPQtHknDm/3yh2dbpY3vUgLp7dRFR3zqxDzKFQmfWDh9hOTUAyPBJuDnAGw==
-    size: 161149922
+      B5WBxSX5EOHLIv8CG6ERzlJYZYjxkOKnS54fjBnoDXNOq78tB279AoI3n/JdSTFKSDYyBcTsUlhWyMJWJA7o9w==
+    size: 161374445
 path: >-
-  https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.70/EN-Launcher-Setup-0.2.70.exe
+  https://github.com/jwatk84/en-launcher-releases/releases/download/v0.2.71/EN-Launcher-Setup-0.2.71.exe
 sha512: >-
-  BDM/YwszCutdo9dAGO/oBd+qkubaPQtHknDm/3yh2dbpY3vUgLp7dRFR3zqxDzKFQmfWDh9hOTUAyPBJuDnAGw==
-releaseDate: '2026-11-18T13:53:42.960Z'
+  B5WBxSX5EOHLIv8CG6ERzlJYZYjxkOKnS54fjBnoDXNOq78tB279AoI3n/JdSTFKSDYyBcTsUlhWyMJWJA7o9w==
+releaseDate: '2026-11-18T14:09:26.559Z'
